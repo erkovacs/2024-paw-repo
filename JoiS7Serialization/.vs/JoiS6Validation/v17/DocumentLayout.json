@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|d:\\sources\\my-paw-seminars\\jois6validation\\jois6validation\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|solutionrelative:jois6validation\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|d:\\sources\\my-paw-seminars\\jois6validation\\jois6validation\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|solutionrelative:jois6validation\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|d:\\sources\\my-paw-seminars\\jois6validation\\jois6validation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|solutionrelative:jois6validation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|d:\\sources\\my-paw-seminars\\jois6validation\\jois6validation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|solutionrelative:jois6validation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|d:\\sources\\my-paw-seminars\\jois6validation\\jois6validation\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|solutionrelative:jois6validation\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|d:\\sources\\my-paw-seminars\\jois6validation\\jois6validation\\addeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS6Validation\\JoiS6Validation.csproj|solutionrelative:jois6validation\\addeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "JoiS6Validation\\Entities\\Participant.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\Entities\\Participant.cs",
+              "RelativeToolTip": "JoiS6Validation\\Entities\\Participant.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:06:12.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditForm.Designer.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\AddEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "JoiS6Validation\\AddEditForm.Designer.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\AddEditForm.Designer.cs",
+              "RelativeToolTip": "JoiS6Validation\\AddEditForm.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAqwGYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:03:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditForm.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "JoiS6Validation\\AddEditForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\AddEditForm.cs",
+              "RelativeToolTip": "JoiS6Validation\\AddEditForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:02:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "JoiS6Validation\\AddEditForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\AddEditForm.cs [Design]",
+              "RelativeToolTip": "JoiS6Validation\\AddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:59:37.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\MainForm.cs",
+              "RelativeDocumentMoniker": "JoiS6Validation\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\MainForm.cs",
+              "RelativeToolTip": "JoiS6Validation\\MainForm.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:58:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\MainForm.cs",
+              "RelativeDocumentMoniker": "JoiS6Validation\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS6Validation\\JoiS6Validation\\MainForm.cs [Design]",
+              "RelativeToolTip": "JoiS6Validation\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:48:31.304Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
