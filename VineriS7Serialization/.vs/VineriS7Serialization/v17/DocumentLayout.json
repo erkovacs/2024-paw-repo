@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|d:\\sources\\my-paw-seminars\\vineris7serialization\\vineris7serialization\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|solutionrelative:vineris7serialization\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\vineris7serialization\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|solutionrelative:vineris7serialization\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\vineris7serialization\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|solutionrelative:vineris7serialization\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\vineris7serialization\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS7Serialization\\VineriS7Serialization.csproj|solutionrelative:vineris7serialization\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "VineriS7Serialization\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\MainForm.Designer.cs",
+              "RelativeToolTip": "VineriS7Serialization\\MainForm.Designer.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAqwKsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:01:07.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "VineriS7Serialization\\Entities\\Participant.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\Entities\\Participant.cs",
+              "RelativeToolTip": "VineriS7Serialization\\Entities\\Participant.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:36:22.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\MainForm.cs",
+              "RelativeDocumentMoniker": "VineriS7Serialization\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\MainForm.cs",
+              "RelativeToolTip": "VineriS7Serialization\\MainForm.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAqwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:24:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\MainForm.cs",
+              "RelativeDocumentMoniker": "VineriS7Serialization\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS7Serialization\\VineriS7Serialization\\MainForm.cs [Design]",
+              "RelativeToolTip": "VineriS7Serialization\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:21:50.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
