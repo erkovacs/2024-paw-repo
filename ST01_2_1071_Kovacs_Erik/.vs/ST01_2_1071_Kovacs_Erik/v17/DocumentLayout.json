@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|c:\\users\\erik\\source\\repos\\st01_2_1071_kovacs_erik\\st01_2_1071_kovacs_erik\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|solutionrelative:st01_2_1071_kovacs_erik\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|c:\\users\\erik\\source\\repos\\st01_2_1071_kovacs_erik\\st01_2_1071_kovacs_erik\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|solutionrelative:st01_2_1071_kovacs_erik\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|c:\\users\\erik\\source\\repos\\st01_2_1071_kovacs_erik\\st01_2_1071_kovacs_erik\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|solutionrelative:st01_2_1071_kovacs_erik\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|c:\\users\\erik\\source\\repos\\st01_2_1071_kovacs_erik\\st01_2_1071_kovacs_erik\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|solutionrelative:st01_2_1071_kovacs_erik\\addeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|c:\\users\\erik\\source\\repos\\st01_2_1071_kovacs_erik\\st01_2_1071_kovacs_erik\\entities\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|solutionrelative:st01_2_1071_kovacs_erik\\entities\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|c:\\users\\erik\\source\\repos\\st01_2_1071_kovacs_erik\\st01_2_1071_kovacs_erik\\entities\\fleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979283F3-F7EE-4D1F-8351-98AFF4E8AF23}|ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik.csproj|solutionrelative:st01_2_1071_kovacs_erik\\entities\\fleet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "ST01_2_1071_Kovacs_Erik\\AddEditForm.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\AddEditForm.cs [Design]",
+              "RelativeToolTip": "ST01_2_1071_Kovacs_Erik\\AddEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:26:57.144Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\MainForm.cs",
+              "RelativeDocumentMoniker": "ST01_2_1071_Kovacs_Erik\\MainForm.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\MainForm.cs",
+              "RelativeToolTip": "ST01_2_1071_Kovacs_Erik\\MainForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:33:16.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\AddEditForm.cs",
+              "RelativeDocumentMoniker": "ST01_2_1071_Kovacs_Erik\\AddEditForm.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\AddEditForm.cs",
+              "RelativeToolTip": "ST01_2_1071_Kovacs_Erik\\AddEditForm.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:30:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\MainForm.cs",
+              "RelativeDocumentMoniker": "ST01_2_1071_Kovacs_Erik\\MainForm.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\MainForm.cs [Design]",
+              "RelativeToolTip": "ST01_2_1071_Kovacs_Erik\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:12:04.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fleet.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\Entities\\Fleet.cs",
+              "RelativeDocumentMoniker": "ST01_2_1071_Kovacs_Erik\\Entities\\Fleet.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\Entities\\Fleet.cs",
+              "RelativeToolTip": "ST01_2_1071_Kovacs_Erik\\Entities\\Fleet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:20:10.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\Entities\\Truck.cs",
+              "RelativeDocumentMoniker": "ST01_2_1071_Kovacs_Erik\\Entities\\Truck.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\ST01_2_1071_Kovacs_Erik\\ST01_2_1071_Kovacs_Erik\\Entities\\Truck.cs",
+              "RelativeToolTip": "ST01_2_1071_Kovacs_Erik\\Entities\\Truck.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:14:37.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
