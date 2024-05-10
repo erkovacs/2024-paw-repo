@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB23213C-864D-464C-9621-1107D00E211D}|..\\VineriS8DataBinding.Tests\\UnitTestProject1\\UnitTestProject1.csproj|d:\\sources\\my-paw-seminars\\vineris8databinding.tests\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|d:\\sources\\my-paw-seminars\\vineris8databinding\\vineris8databinding\\mainformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|solutionrelative:vineris8databinding\\mainformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\vineris8databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|solutionrelative:vineris8databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\vineris8databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|solutionrelative:vineris8databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\vineris8databinding\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS8DataBinding\\VineriS8DataBinding.csproj|solutionrelative:vineris8databinding\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding.Tests\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\VineriS8DataBinding.Tests\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding.Tests\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\VineriS8DataBinding.Tests\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:39:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainForm.cs",
+              "RelativeDocumentMoniker": "VineriS8DataBinding\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainForm.cs",
+              "RelativeToolTip": "VineriS8DataBinding\\MainForm.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:57:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "VineriS8DataBinding\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainForm.Designer.cs",
+              "RelativeToolTip": "VineriS8DataBinding\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:57:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainFormViewModel.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainFormViewModel.cs",
+              "RelativeDocumentMoniker": "VineriS8DataBinding\\MainFormViewModel.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainFormViewModel.cs",
+              "RelativeToolTip": "VineriS8DataBinding\\MainFormViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:44:49.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainForm.cs",
+              "RelativeDocumentMoniker": "VineriS8DataBinding\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\VineriS8DataBinding\\VineriS8DataBinding\\MainForm.cs [Design]",
+              "RelativeToolTip": "VineriS8DataBinding\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:44:16.409Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

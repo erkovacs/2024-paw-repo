@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS10DataBinding\\JoiS10DataBinding.csproj|d:\\sources\\my-paw-seminars\\jois10databinding\\jois10databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS10DataBinding\\JoiS10DataBinding.csproj|solutionrelative:jois10databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS10DataBinding\\JoiS10DataBinding.csproj|d:\\sources\\my-paw-seminars\\jois10databinding\\jois10databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS10DataBinding\\JoiS10DataBinding.csproj|solutionrelative:jois10databinding\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS10DataBinding\\JoiS10DataBinding.csproj|d:\\sources\\my-paw-seminars\\jois10databinding\\jois10databinding\\mainformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0171382-14E0-4D73-B947-93DF75F02D1E}|JoiS10DataBinding\\JoiS10DataBinding.csproj|solutionrelative:jois10databinding\\mainformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainFormViewModel.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\JoiS10DataBinding\\MainFormViewModel.cs",
+              "RelativeDocumentMoniker": "JoiS10DataBinding\\MainFormViewModel.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\JoiS10DataBinding\\MainFormViewModel.cs",
+              "RelativeToolTip": "JoiS10DataBinding\\MainFormViewModel.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:47:55.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\JoiS10DataBinding\\MainForm.cs",
+              "RelativeDocumentMoniker": "JoiS10DataBinding\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\JoiS10DataBinding\\MainForm.cs",
+              "RelativeToolTip": "JoiS10DataBinding\\MainForm.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:40:27.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\JoiS10DataBinding\\MainForm.cs",
+              "RelativeDocumentMoniker": "JoiS10DataBinding\\MainForm.cs",
+              "ToolTip": "D:\\Sources\\my-paw-seminars\\JoiS10DataBinding\\JoiS10DataBinding\\MainForm.cs [Design]",
+              "RelativeToolTip": "JoiS10DataBinding\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:38:40.215Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

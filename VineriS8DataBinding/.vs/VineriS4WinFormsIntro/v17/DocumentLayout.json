@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|c:\\users\\erik\\source\\repos\\vineris4winformsintro\\vineris4winformsintro\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|solutionrelative:vineris4winformsintro\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|c:\\users\\erik\\source\\repos\\vineris4winformsintro\\vineris4winformsintro\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|solutionrelative:vineris4winformsintro\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|c:\\users\\erik\\source\\repos\\vineris4winformsintro\\vineris4winformsintro\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|solutionrelative:vineris4winformsintro\\entities\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|c:\\users\\erik\\source\\repos\\vineris4winformsintro\\vineris4winformsintro\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C574EE7-2BA6-4AAC-BC89-54A4B5CCC204}|VineriS4WinFormsIntro\\VineriS4WinFormsIntro.csproj|solutionrelative:vineris4winformsintro\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\MainForm.cs",
+              "RelativeDocumentMoniker": "VineriS4WinFormsIntro\\MainForm.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\MainForm.cs",
+              "RelativeToolTip": "VineriS4WinFormsIntro\\MainForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:26:10.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\Entities\\Participant.cs",
+              "RelativeDocumentMoniker": "VineriS4WinFormsIntro\\Entities\\Participant.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\Entities\\Participant.cs",
+              "RelativeToolTip": "VineriS4WinFormsIntro\\Entities\\Participant.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:35:26.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "VineriS4WinFormsIntro\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\MainForm.Designer.cs",
+              "RelativeToolTip": "VineriS4WinFormsIntro\\MainForm.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:30:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\MainForm.cs",
+              "RelativeDocumentMoniker": "VineriS4WinFormsIntro\\MainForm.cs",
+              "ToolTip": "C:\\Users\\erik\\source\\repos\\VineriS4WinFormsIntro\\VineriS4WinFormsIntro\\MainForm.cs [Design]",
+              "RelativeToolTip": "VineriS4WinFormsIntro\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:20:58.802Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
